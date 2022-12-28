@@ -101,7 +101,7 @@ $ python tcpserver.py
 このコンソールのタブは、閉じないように気をつけてください。
 
 ## Chromeからリクエストを送る
-次に、ChromeのURLバーに`http//localhost:8080`と入力してEnterを押してください。
+次に、ChromeのURLバーに`http://localhost:8080`と入力してEnterを押してください。
 エラー画面が表示されるはずです。
 
 ::: message
